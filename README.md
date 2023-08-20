@@ -22,4 +22,6 @@ Results Our number recognition model successfully recognises handwritten digits 
 
 Contributing To the project's improvement, we welcome contributions. To contribute, fork the repository, make your modifications in a feature branch, and then submit a pull request.
 
+This work is done under guidedance of Bharat intern.
+
 Thank you for using Number Recognition! If you have any questions or feedback, please don't hesitate to reach out. Happy digit recognition!
