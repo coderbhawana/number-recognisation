@@ -1,7 +1,7 @@
 # number-recognisation
 A machine learning project called Number Recognition uses deep learning to identify handwritten numbers. The model is useful for tasks like optical character recognition (OCR) and digit classification because it has been taught to recognise digits from 0 to 9. Summary of Contents Overview Installation and Use Results of the Dataset Model Architecture Training Evaluation Introduction to Contributing Licence Number Recognition is a Python-based project that builds and trains a neural network that can recognise handwritten numbers using deep learning tools like TensorFlow and Keras. The model is intended to achieve excellent generalisation and accuracy on new data.
 
-Installation Clone the repository: https://github.com/coderbhawana/number-recognisation.gitdirectory: cd number-recognition Install the required dependencies: pip install -r requirements.txt Usage To run the number recognition model on your own handwritten digit images, follow these steps:
+Installation Clone the repository: https://github.com/coderbhawana/number-recognisation.git directory: cd number-recognition Install the required dependencies: pip install -r requirements.txt Usage To run the number recognition model on your own handwritten digit images, follow these steps:
 
 Create PNG files from your digit pictures. Make sure the photographs are grayscale and 28x28 pixels in size. The photographs should be put in the test_images folder. Start the prediction programme by typing python predict.py. The model will analyse the pictures and show the identified numbers along with confidence levels.
 
